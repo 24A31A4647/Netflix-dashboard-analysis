@@ -1,0 +1,188 @@
+﻿Show_ID,Title,Type,Director,Country,Release_Year,Rating,Duration,Genre,Date_Added,Views_Millions,Watch_Hours_Millions,Completion_Rate_Percent,New_Subscribers_Thousands,Revenue_Millions,Added_Year,Added_Month,Added_Month_Name,Added_Quarter
+NFREAL0001,The Irishman,Movie,Martin Scorsese,United States,2019,R,209 min,Dramas,2023-10-23,75.3,208.19,64.4,7.1,3.77,2023,10,October,Q4
+NFREAL0002,Bird Box,Movie,Susanne Bier,United States,2018,R,124 min,Thrillers,2024-11-27,16.74,43.36,65.8,1.2,0.73,2024,11,November,Q4
+NFREAL0003,Extraction,Movie,Sam Hargrave,United States,2020,R,117 min,Action & Adventure,2022-07-20,6.44,17.31,85.8,0.4,0.42,2022,7,July,Q3
+NFREAL0004,The Gray Man,Movie,"Anthony Russo, Joe Russo",United States,2022,PG-13,129 min,Action & Adventure,2023-01-03,21.05,55.88,51.7,1.0,1.08,2023,1,January,Q1
+NFREAL0005,Red Notice,Movie,Rawson Marshall Thurber,United States,2021,PG-13,118 min,Action & Adventure,2021-04-17,142.17,386.99,65.6,10.2,5.2,2021,4,April,Q2
+NFREAL0006,The Adam Project,Movie,Shawn Levy,United States,2022,PG-13,106 min,Sci-Fi & Fantasy,2022-08-24,12.54,16.72,66.8,1.2,0.48,2022,8,August,Q3
+NFREAL0007,Don't Look Up,Movie,Adam McKay,United States,2021,R,138 min,Comedies,2022-04-05,2.89,8.03,51.0,0.4,0.12,2022,4,April,Q2
+NFREAL0008,All Quiet on the Western Front,Movie,Edward Berger,Germany,2022,R,148 min,Dramas,2025-03-20,91.59,186.54,57.5,7.3,1.84,2025,3,March,Q1
+NFREAL0009,The Killer,Movie,David Fincher,United States,2023,R,118 min,Thrillers,2024-12-10,30.57,72.72,82.6,2.7,2.36,2024,12,December,Q4
+NFREAL0010,Maestro,Movie,Bradley Cooper,United States,2023,R,129 min,Dramas,2023-05-12,49.56,69.87,68.8,3.3,2.37,2023,5,May,Q2
+NFREAL0011,Glass Onion: A Knives Out Mystery,Movie,Rian Johnson,United States,2022,PG-13,139 min,Comedies,2024-06-07,73.02,146.26,59.4,5.7,4.9,2024,6,June,Q2
+NFREAL0012,Knives Out,Movie,Rian Johnson,United States,2019,PG-13,131 min,Comedies,2020-10-27,44.36,85.84,70.7,1.9,3.01,2020,10,October,Q4
+NFREAL0013,The Platform,Movie,Galder Gaztelu-Urrutia,Spain,2019,TV-MA,94 min,Thrillers,2021-05-18,11.8,18.63,77.2,0.9,0.51,2021,5,May,Q2
+NFREAL0014,Luther: The Fallen Sun,Movie,Jamie Payne,United Kingdom,2023,R,129 min,Crime,2023-07-16,44.88,110.35,66.0,4.8,2.23,2023,7,July,Q3
+NFREAL0015,Enola Holmes,Movie,Harry Bradbeer,United Kingdom,2020,PG-13,123 min,Children & Family,2020-02-22,92.32,218.34,53.3,11.9,6.06,2020,2,February,Q1
+NFREAL0016,Enola Holmes 2,Movie,Harry Bradbeer,United Kingdom,2022,PG-13,130 min,Children & Family,2022-05-08,8.97,18.53,69.3,0.9,0.63,2022,5,May,Q2
+NFREAL0017,The Old Guard,Movie,Gina Prince-Bythewood,United States,2020,R,125 min,Action & Adventure,2020-06-04,22.17,42.46,85.4,2.8,1.17,2020,6,June,Q2
+NFREAL0018,The Harder They Fall,Movie,Jeymes Samuel,United States,2021,R,139 min,Action & Adventure,2022-11-01,59.39,163.93,71.9,3.7,1.79,2022,11,November,Q4
+NFREAL0019,Hustle,Movie,Jeremiah Zagar,United States,2022,R,117 min,Dramas,2022-01-26,61.63,163.69,86.8,9.0,3.4,2022,1,January,Q1
+NFREAL0020,The Two Popes,Movie,Fernando Meirelles,United Kingdom,2019,PG-13,125 min,Dramas,2021-05-27,14.22,33.11,75.5,1.2,0.61,2021,5,May,Q2
+NFREAL0021,Marriage Story,Movie,Noah Baumbach,United States,2019,R,137 min,Dramas,2025-11-08,38.29,84.95,74.3,5.7,1.96,2025,11,November,Q4
+NFREAL0022,The Power of the Dog,Movie,Jane Campion,Australia,2021,R,126 min,Dramas,2021-03-17,4.56,5.56,74.0,0.3,0.1,2021,3,March,Q1
+NFREAL0023,Roma,Movie,Alfonso Cuarón,Mexico,2018,R,135 min,Dramas,2022-06-12,13.62,21.64,63.3,0.6,0.9,2022,6,June,Q2
+NFREAL0024,The King,Movie,David Michôd,United Kingdom,2019,R,140 min,Dramas,2021-03-17,41.24,79.21,43.3,4.7,1.35,2021,3,March,Q1
+NFREAL0025,Outlaw King,Movie,David Mackenzie,United Kingdom,2018,R,121 min,Action & Adventure,2019-12-05,27.43,56.03,58.9,1.5,1.62,2019,12,December,Q4
+NFREAL0026,The Trial of the Chicago 7,Movie,Aaron Sorkin,United States,2020,R,130 min,Dramas,2024-01-18,11.51,20.34,64.7,0.9,0.37,2024,1,January,Q1
+NFREAL0027,The Mitchells vs. the Machines,Movie,"Michael Rianda, Jeff Rowe",United States,2021,PG,113 min,Children & Family,2021-06-03,11.68,29.47,73.6,0.7,0.89,2021,6,June,Q2
+NFREAL0028,Klaus,Movie,Sergio Pablos,Spain,2019,PG,96 min,Children & Family,2021-10-23,66.15,142.42,55.5,8.0,1.57,2021,10,October,Q4
+NFREAL0029,Guillermo del Toro's Pinocchio,Movie,"Guillermo del Toro, Mark Gustafson",Mexico,2022,PG,117 min,Children & Family,2024-07-15,42.23,76.82,68.3,1.3,1.22,2024,7,July,Q3
+NFREAL0030,The Sea Beast,Movie,Chris Williams,United States,2022,PG,119 min,Children & Family,2022-06-09,87.71,110.81,52.0,13.0,6.06,2022,6,June,Q2
+NFREAL0031,Nimona,Movie,"Nick Bruno, Troy Quane",United States,2023,PG,101 min,Children & Family,2025-02-15,25.59,34.44,64.0,1.2,1.56,2025,2,February,Q1
+NFREAL0032,The School for Good and Evil,Movie,Paul Feig,United States,2022,PG-13,147 min,Children & Family,2022-02-22,2.0,2.74,50.8,0.2,0.14,2022,2,February,Q1
+NFREAL0033,To All the Boys I've Loved Before,Movie,Susan Johnson,United States,2018,TV-14,99 min,Romantic Movies,2023-08-22,66.04,138.95,69.9,4.4,3.23,2023,8,August,Q3
+NFREAL0034,To All the Boys: P.S. I Still Love You,Movie,Michael Fimognari,United States,2020,TV-14,102 min,Romantic Movies,2020-05-16,4.79,12.24,78.8,0.4,0.35,2020,5,May,Q2
+NFREAL0035,To All the Boys: Always and Forever,Movie,Michael Fimognari,United States,2021,TV-14,109 min,Romantic Movies,2021-02-03,4.84,11.65,82.6,0.5,0.23,2021,2,February,Q1
+NFREAL0036,The Half of It,Movie,Alice Wu,United States,2020,PG-13,104 min,Romantic Movies,2020-10-20,2.95,3.71,77.6,0.4,0.16,2020,10,October,Q4
+NFREAL0037,Set It Up,Movie,Claire Scanlon,United States,2018,TV-14,105 min,Romantic Movies,2025-01-11,6.87,16.22,79.8,1.0,0.29,2025,1,January,Q1
+NFREAL0038,Always Be My Maybe,Movie,Nahnatchka Khan,United States,2019,PG-13,102 min,Romantic Movies,2024-05-14,49.38,108.57,94.4,5.6,2.27,2024,5,May,Q2
+NFREAL0039,Someone Great,Movie,Jennifer Kaytin Robinson,United States,2019,R,92 min,Romantic Movies,2024-12-16,5.91,9.91,66.2,0.8,0.18,2024,12,December,Q4
+NFREAL0040,Murder Mystery,Movie,Kyle Newacheck,United States,2019,PG-13,97 min,Comedies,2024-09-12,30.96,51.74,68.3,3.4,1.95,2024,9,September,Q3
+NFREAL0041,Murder Mystery 2,Movie,Jeremy Garelick,United States,2023,PG-13,90 min,Comedies,2023-04-05,7.32,10.03,70.6,0.4,0.22,2023,4,April,Q2
+NFREAL0042,The Unforgivable,Movie,Nora Fingscheidt,United States,2021,R,112 min,Dramas,2025-01-21,6.45,9.96,70.3,0.8,0.49,2025,1,January,Q1
+NFREAL0043,Oxygen,Movie,Alexandre Aja,France,2021,TV-14,100 min,Sci-Fi & Fantasy,2021-03-21,21.69,43.95,71.0,1.8,1.57,2021,3,March,Q1
+NFREAL0044,I Care a Lot,Movie,J Blakeson,United States,2020,R,118 min,Thrillers,2024-04-12,10.25,17.2,73.4,0.9,0.52,2024,4,April,Q2
+NFREAL0045,The Wonder,Movie,Sebastián Lelio,Ireland,2022,R,108 min,Dramas,2024-11-27,4.28,5.51,62.6,0.3,0.26,2024,11,November,Q4
+NFREAL0046,The Good Nurse,Movie,Tobias Lindholm,United States,2022,R,121 min,Dramas,2024-04-17,95.82,132.36,73.9,10.3,2.98,2024,4,April,Q2
+NFREAL0047,Society of the Snow,Movie,J. A. Bayona,Spain,2023,R,144 min,Dramas,2023-08-12,97.31,237.52,79.9,8.5,4.57,2023,8,August,Q3
+NFREAL0048,Nyad,Movie,"Elizabeth Chai Vasarhelyi, Jimmy Chin",United States,2023,PG-13,121 min,Dramas,2025-06-07,50.41,69.36,79.8,6.6,3.77,2025,6,June,Q2
+NFREAL0049,The Out-Laws,Movie,Tyler Spindel,United States,2023,PG-13,95 min,Comedies,2025-03-11,16.91,32.92,83.0,2.3,0.64,2025,3,March,Q1
+NFREAL0050,Heart of Stone,Movie,Tom Harper,United States,2023,PG-13,123 min,Action & Adventure,2025-10-07,30.93,61.72,62.8,1.5,1.98,2025,10,October,Q4
+NFREAL0051,Rebel Moon – Part One: A Child of Fire,Movie,Zack Snyder,United States,2023,PG-13,134 min,Sci-Fi & Fantasy,2023-12-26,7.69,11.04,60.7,0.7,0.34,2023,12,December,Q4
+NFREAL0052,Rebel Moon – Part Two: The Scargiver,Movie,Zack Snyder,United States,2024,PG-13,122 min,Sci-Fi & Fantasy,2025-07-12,12.22,18.78,72.1,1.3,0.97,2025,7,July,Q3
+NFREAL0053,The Electric State,Movie,"Anthony Russo, Joe Russo",United States,2025,PG-13,128 min,Sci-Fi & Fantasy,2025-07-21,3.47,9.71,68.0,0.1,0.19,2025,7,July,Q3
+NFREAL0054,Damsel,Movie,Juan Carlos Fresnadillo,United States,2024,PG-13,110 min,Action & Adventure,2025-09-25,16.28,39.87,73.7,1.9,1.09,2025,9,September,Q3
+NFREAL0055,The Pale Blue Eye,Movie,Scott Cooper,United States,2022,R,128 min,Thrillers,2023-11-04,3.94,7.48,73.1,0.5,0.27,2023,11,November,Q4
+NFREAL0056,Leave the World Behind,Movie,Sam Esmail,United States,2023,R,141 min,Thrillers,2023-06-05,18.89,26.06,69.5,2.6,1.35,2023,6,June,Q2
+NFREAL0057,Fair Play,Movie,Chloe Domont,United States,2023,R,113 min,Dramas,2024-01-08,27.59,62.23,70.9,3.8,1.89,2024,1,January,Q1
+NFREAL0058,May December,Movie,Todd Haynes,United States,2023,R,117 min,Dramas,2025-08-10,10.53,19.32,58.3,1.4,0.83,2025,8,August,Q3
+NFREAL0059,Rustin,Movie,George C. Wolfe,United States,2023,PG-13,108 min,Dramas,2023-02-19,13.5,23.13,74.8,1.1,1.04,2023,2,February,Q1
+NFREAL0060,The Marvels,Movie,Nia DaCosta,United States,2023,PG-13,105 min,Action & Adventure,2025-02-14,33.04,83.12,67.1,1.5,1.15,2025,2,February,Q1
+NFREAL0061,Freaky Friday,Movie,Mark Waters,United States,2003,PG,97 min,Comedies,2023-03-16,142.38,228.42,69.7,16.0,3.17,2023,3,March,Q1
+NFREAL0062,Jumanji: Welcome to the Jungle,Movie,Jake Kasdan,United States,2017,PG-13,119 min,Action & Adventure,2020-09-12,11.47,25.62,53.9,0.9,0.4,2020,9,September,Q3
+NFREAL0063,The Karate Kid,Movie,Harald Zwart,United States,2010,PG,140 min,Action & Adventure,2025-01-03,19.6,31.89,75.8,2.7,0.59,2025,1,January,Q1
+NFREAL0064,The Pursuit of Happyness,Movie,Gabriele Muccino,United States,2006,PG-13,117 min,Dramas,2021-12-16,22.35,54.87,69.9,2.9,0.61,2021,12,December,Q4
+NFREAL0065,The Social Network,Movie,David Fincher,United States,2010,PG-13,120 min,Dramas,2021-01-22,59.74,109.16,88.3,2.9,2.57,2021,1,January,Q1
+NFREAL0066,Inception,Movie,Christopher Nolan,"United States, United Kingdom",2010,PG-13,148 min,Sci-Fi & Fantasy,2025-03-20,10.62,15.53,72.8,0.3,0.27,2025,3,March,Q1
+NFREAL0067,Interstellar,Movie,Christopher Nolan,"United States, United Kingdom",2014,PG-13,169 min,Sci-Fi & Fantasy,2020-10-04,14.41,23.14,72.3,2.1,0.78,2020,10,October,Q4
+NFREAL0068,The Dark Knight,Movie,Christopher Nolan,"United States, United Kingdom",2008,PG-13,152 min,Action & Adventure,2025-04-16,22.96,50.79,74.0,1.2,1.54,2025,4,April,Q2
+NFREAL0069,The Matrix,Movie,"Lana Wachowski, Lilly Wachowski",United States,1999,R,136 min,Sci-Fi & Fantasy,2018-06-12,16.2,35.77,55.7,1.1,1.26,2018,6,June,Q2
+NFREAL0070,The Lord of the Rings: The Fellowship of the Ring,Movie,Peter Jackson,"New Zealand, United States",2001,PG-13,178 min,Action & Adventure,2024-03-10,18.02,28.8,60.7,2.6,1.01,2024,3,March,Q1
+NFREAL0071,The Lord of the Rings: The Two Towers,Movie,Peter Jackson,"New Zealand, United States",2002,PG-13,179 min,Action & Adventure,2021-07-19,6.04,8.91,72.2,0.7,0.42,2021,7,July,Q3
+NFREAL0072,The Lord of the Rings: The Return of the King,Movie,Peter Jackson,"New Zealand, United States",2003,PG-13,201 min,Action & Adventure,2022-05-03,10.56,17.77,88.7,0.3,0.29,2022,5,May,Q2
+NFREAL0073,Forrest Gump,Movie,Robert Zemeckis,United States,1994,PG-13,142 min,Dramas,2020-01-10,125.29,284.43,78.4,17.7,6.02,2020,1,January,Q1
+NFREAL0074,Gladiator,Movie,Ridley Scott,"United States, United Kingdom",2000,R,155 min,Action & Adventure,2023-01-15,52.81,74.03,71.8,3.5,2.23,2023,1,January,Q1
+NFREAL0075,The Green Mile,Movie,Frank Darabont,United States,1999,R,189 min,Dramas,2018-09-01,40.21,105.67,85.7,1.6,1.24,2018,9,September,Q3
+NFREAL0076,Saving Private Ryan,Movie,Steven Spielberg,United States,1998,R,169 min,Dramas,2018-03-23,14.43,38.78,73.2,1.7,0.91,2018,3,March,Q1
+NFREAL0077,Jaws,Movie,Steven Spielberg,United States,1975,PG,124 min,Classic Movies,2018-05-14,32.99,62.62,67.5,1.5,1.2,2018,5,May,Q2
+NFREAL0078,Catch Me If You Can,Movie,Steven Spielberg,United States,2002,PG-13,141 min,Dramas,2018-11-14,38.13,94.26,84.9,1.4,2.27,2018,11,November,Q4
+NFREAL0079,A Beautiful Mind,Movie,Ron Howard,United States,2001,PG-13,135 min,Dramas,2024-10-20,16.3,24.99,55.0,1.1,0.45,2024,10,October,Q4
+NFREAL0080,The Truman Show,Movie,Peter Weir,United States,1998,PG,103 min,Comedies,2020-08-18,30.99,40.74,69.2,2.6,0.65,2020,8,August,Q3
+NFREAL0081,The Prestige,Movie,Christopher Nolan,"United States, United Kingdom",2006,PG-13,130 min,Thrillers,2025-11-10,24.38,41.13,74.2,2.1,1.39,2025,11,November,Q4
+NFREAL0082,V for Vendetta,Movie,James McTeigue,"United States, United Kingdom, Germany",2005,R,132 min,Action & Adventure,2025-08-01,9.89,12.39,82.1,1.2,0.26,2025,8,August,Q3
+NFREAL0083,The Departed,Movie,Martin Scorsese,United States,2006,R,151 min,Dramas,2021-09-23,14.92,36.83,61.3,0.9,0.73,2021,9,September,Q3
+NFREAL0084,Goodfellas,Movie,Martin Scorsese,United States,1990,R,146 min,Dramas,2025-08-15,3.9,10.09,84.9,0.3,0.27,2025,8,August,Q3
+NFREAL0085,Casino,Movie,Martin Scorsese,"United States, France",1995,R,178 min,Dramas,2023-10-26,3.59,4.62,68.6,0.1,0.28,2023,10,October,Q4
+NFREAL0086,The Wolf of Wall Street,Movie,Martin Scorsese,United States,2013,R,180 min,Dramas,2020-10-04,17.92,38.65,67.1,2.6,1.04,2020,10,October,Q4
+NFREAL0087,Pulp Fiction,Movie,Quentin Tarantino,United States,1994,R,154 min,Dramas,2024-01-22,31.02,38.79,63.8,2.1,1.88,2024,1,January,Q1
+NFREAL0088,Django Unchained,Movie,Quentin Tarantino,United States,2012,R,165 min,Dramas,2019-07-11,7.78,9.94,80.9,0.9,0.33,2019,7,July,Q3
+NFREAL0089,Kill Bill: Vol. 1,Movie,Quentin Tarantino,United States,2003,R,111 min,Action & Adventure,2020-09-13,14.19,19.43,52.1,2.1,0.52,2020,9,September,Q3
+NFREAL0090,Once Upon a Time... in Hollywood,Movie,Quentin Tarantino,United States,2019,R,161 min,Comedies,2022-11-02,36.48,79.83,81.5,1.8,1.94,2022,11,November,Q4
+NFREAL0091,The Hateful Eight,Movie,Quentin Tarantino,United States,2015,R,168 min,Thrillers,2024-12-17,5.17,12.82,73.2,0.2,0.23,2024,12,December,Q4
+NFREAL0092,Parasite,Movie,Bong Joon Ho,South Korea,2019,R,132 min,Dramas,2022-07-18,22.46,32.77,78.1,1.1,0.53,2022,7,July,Q3
+NFREAL0093,Train to Busan,Movie,Yeon Sang-ho,South Korea,2016,TV-MA,118 min,Horror Movies,2020-02-20,53.62,139.77,72.1,2.4,2.14,2020,2,February,Q1
+NFREAL0094,Okja,Movie,Bong Joon Ho,"South Korea, United States",2017,TV-14,120 min,Action & Adventure,2024-07-24,5.81,14.0,41.9,0.4,0.24,2024,7,July,Q3
+NFREAL0095,RRR,Movie,S. S. Rajamouli,India,2022,TV-14,182 min,Action & Adventure,2022-12-20,11.46,23.34,75.9,1.3,0.79,2022,12,December,Q4
+NFREAL0096,Baahubali: The Beginning,Movie,S. S. Rajamouli,India,2015,TV-14,159 min,Action & Adventure,2019-12-23,5.03,12.36,89.5,0.6,0.38,2019,12,December,Q4
+NFREAL0097,Baahubali 2: The Conclusion,Movie,S. S. Rajamouli,India,2017,TV-14,167 min,Action & Adventure,2025-11-16,13.81,24.07,70.7,2.0,1.04,2025,11,November,Q4
+NFREAL0098,3 Idiots,Movie,Rajkumar Hirani,India,2009,PG-13,170 min,Comedies,2025-05-16,7.1,15.72,75.6,0.3,0.31,2025,5,May,Q2
+NFREAL0099,PK,Movie,Rajkumar Hirani,India,2014,PG-13,153 min,Comedies,2022-05-15,16.74,28.13,73.2,2.2,0.47,2022,5,May,Q2
+NFREAL0100,Dangal,Movie,Nitesh Tiwari,India,2016,PG,161 min,Dramas,2024-01-07,13.1,22.8,73.5,0.5,0.93,2024,1,January,Q1
+NFREAL0101,Lagaan,Movie,Ashutosh Gowariker,India,2001,PG,224 min,Dramas,2020-04-20,27.44,58.83,46.7,1.3,1.23,2020,4,April,Q2
+NFREAL0102,Zindagi Na Milegi Dobara,Movie,Zoya Akhtar,India,2011,TV-14,155 min,Comedies,2018-03-12,6.63,15.63,69.8,0.9,0.24,2018,3,March,Q1
+NFREAL0103,Andhadhun,Movie,Sriram Raghavan,India,2018,TV-14,139 min,Thrillers,2021-06-22,193.81,512.67,88.9,15.1,9.68,2021,6,June,Q2
+NFREAL0104,Drishyam,Movie,Nishikant Kamat,India,2015,TV-14,163 min,Thrillers,2021-10-22,8.48,20.55,63.5,0.9,0.21,2021,10,October,Q4
+NFREAL0105,Drishyam 2,Movie,Abhishek Pathak,India,2022,TV-14,140 min,Thrillers,2024-06-10,51.63,115.67,46.7,2.5,1.17,2024,6,June,Q2
+NFREAL0106,Article 15,Movie,Anubhav Sinha,India,2019,TV-MA,130 min,Dramas,2019-11-05,6.78,13.89,69.8,0.9,0.3,2019,11,November,Q4
+NFREAL0107,Gully Boy,Movie,Zoya Akhtar,India,2019,TV-14,154 min,Dramas,2025-12-04,41.74,109.2,58.9,3.6,2.58,2025,12,December,Q4
+NFREAL0108,Queen,Movie,Vikas Bahl,India,2013,TV-14,146 min,Comedies,2021-10-22,8.65,12.71,81.5,0.6,0.6,2021,10,October,Q4
+NFREAL0109,Kahaani,Movie,Sujoy Ghosh,India,2012,TV-14,122 min,Thrillers,2019-10-09,46.8,98.93,68.3,6.4,2.09,2019,10,October,Q4
+NFREAL0110,Raazi,Movie,Meghna Gulzar,India,2018,TV-14,138 min,Dramas,2021-06-06,48.43,74.05,92.8,3.3,1.84,2021,6,June,Q2
+NFREAL0111,Chhichhore,Movie,Nitesh Tiwari,India,2019,TV-14,143 min,Comedies,2020-10-09,77.29,195.99,48.9,2.9,4.92,2020,10,October,Q4
+NFREAL0112,The Family Man,TV Show,"Raj Nidimoru, Krishna D.K.",India,2019,TV-MA,20 Seasons,Crime TV Shows,2020-07-16,32.74,218.13,82.7,1.2,2.1,2020,7,July,Q3
+NFREAL0113,Sacred Games,TV Show,"Vikramaditya Motwane, Anurag Kashyap",India,2018,TV-MA,16 Seasons,Crime TV Shows,2021-01-07,13.28,237.91,69.1,1.7,1.04,2021,1,January,Q1
+NFREAL0114,Delhi Crime,TV Show,Richie Mehta,India,2019,TV-MA,2 Seasons,Crime TV Shows,2020-12-20,64.03,670.07,65.5,7.8,3.37,2020,12,December,Q4
+NFREAL0115,Kota Factory,TV Show,Raghav Subbu,India,2019,TV-14,3 Seasons,TV Comedies,2024-06-18,20.11,177.34,80.6,1.2,0.41,2024,6,June,Q2
+NFREAL0116,Panchayat,TV Show,Deepak Kumar Mishra,India,2020,TV-14,3 Seasons,TV Comedies,2025-07-17,14.82,263.66,51.6,1.1,1.13,2025,7,July,Q3
+NFREAL0117,Mirzapur,TV Show,"Karan Anshuman, Gurmmeet Singh",India,2018,TV-MA,3 Seasons,Crime TV Shows,2023-02-21,16.87,251.01,61.0,1.0,0.39,2023,2,February,Q1
+NFREAL0118,Money Heist,TV Show,Álex Pina,Spain,2017,TV-MA,5 Seasons,Crime TV Shows,2018-07-04,31.06,340.68,62.7,2.9,1.2,2018,7,July,Q3
+NFREAL0119,Squid Game,TV Show,Hwang Dong-hyuk,South Korea,2021,TV-MA,3 Seasons,International TV Shows,2025-02-15,8.48,90.32,76.8,0.9,0.66,2025,2,February,Q1
+NFREAL0120,Stranger Things,TV Show,The Duffer Brothers,United States,2016,TV-14,4 Seasons,TV Sci-Fi & Fantasy,2025-06-02,6.1,79.0,72.6,0.9,0.22,2025,6,June,Q2
+NFREAL0121,The Crown,TV Show,Peter Morgan,United Kingdom,2016,TV-MA,6 Seasons,British TV Shows,2021-12-17,28.37,347.88,72.1,1.9,2.02,2021,12,December,Q4
+NFREAL0122,Wednesday,TV Show,"Alfred Gough, Miles Millar",United States,2022,TV-14,2 Seasons,TV Comedies,2022-01-14,14.39,163.64,83.6,1.8,0.38,2022,1,January,Q1
+NFREAL0123,Bridgerton,TV Show,Chris Van Dusen,United States,2020,TV-MA,3 Seasons,Romantic TV Shows,2022-09-06,45.12,376.04,61.9,2.1,1.6,2022,9,September,Q3
+NFREAL0124,The Witcher,TV Show,Lauren Schmidt Hissrich,"United States, Poland",2019,TV-MA,3 Seasons,TV Action & Adventure,2025-05-27,3.28,56.32,84.2,0.3,0.21,2025,5,May,Q2
+NFREAL0125,Black Mirror,TV Show,Charlie Brooker,United Kingdom,2011,TV-MA,6 Seasons,British TV Shows,2023-06-16,6.11,78.06,53.6,0.7,0.14,2023,6,June,Q2
+NFREAL0126,Dark,TV Show,"Baran bo Odar, Jantje Friese",Germany,2017,TV-MA,3 Seasons,International TV Shows,2023-10-04,8.15,145.01,68.2,0.7,0.43,2023,10,October,Q4
+NFREAL0127,Ozark,TV Show,"Bill Dubuque, Mark Williams",United States,2017,TV-MA,4 Seasons,Crime TV Shows,2021-11-05,64.91,526.74,66.2,2.6,3.41,2021,11,November,Q4
+NFREAL0128,Narcos,TV Show,"Chris Brancato, Carlo Bernard, Doug Miro","United States, Colombia",2015,TV-MA,3 Seasons,Crime TV Shows,2021-09-06,2.94,25.03,71.3,0.3,0.2,2021,9,September,Q3
+NFREAL0129,The Umbrella Academy,TV Show,Steve Blackman,United States,2019,TV-14,4 Seasons,TV Action & Adventure,2024-11-18,1.81,19.3,62.8,0.1,0.12,2024,11,November,Q4
+NFREAL0130,You,TV Show,"Greg Berlanti, Sera Gamble",United States,2018,TV-MA,4 Seasons,Crime TV Shows,2023-07-09,4.79,54.13,85.9,0.2,0.19,2023,7,July,Q3
+NFREAL0131,Sex Education,TV Show,Laurie Nunn,United Kingdom,2019,TV-MA,4 Seasons,British TV Shows,2021-11-06,7.31,68.25,63.4,0.5,0.52,2021,11,November,Q4
+NFREAL0132,Peaky Blinders,TV Show,Steven Knight,United Kingdom,2013,TV-MA,6 Seasons,British TV Shows,2022-07-24,9.25,52.07,52.8,0.4,0.6,2022,7,July,Q3
+NFREAL0133,The Queen's Gambit,TV Show,"Scott Frank, Allan Scott",United States,2020,TV-MA,1 Seasons,TV Dramas,2024-12-06,37.13,409.91,72.5,4.3,2.44,2024,12,December,Q4
+NFREAL0134,The Haunting of Hill House,TV Show,Mike Flanagan,United States,2018,TV-MA,1 Seasons,TV Horror,2019-05-23,4.81,72.37,80.1,0.2,0.25,2019,5,May,Q2
+NFREAL0135,The Haunting of Bly Manor,TV Show,Mike Flanagan,United States,2020,TV-MA,1 Seasons,TV Horror,2022-11-21,22.43,287.23,75.4,2.8,0.8,2022,11,November,Q4
+NFREAL0136,Midnight Mass,TV Show,Mike Flanagan,United States,2021,TV-MA,1 Seasons,TV Horror,2021-01-05,3.5,42.44,59.3,0.1,0.22,2021,1,January,Q1
+NFREAL0137,The Sandman,TV Show,"Neil Gaiman, David S. Goyer, Allan Heinberg","United Kingdom, United States",2022,TV-MA,1 Seasons,TV Fantasy,2025-05-06,18.8,97.18,65.6,2.6,1.05,2025,5,May,Q2
+NFREAL0138,Lupin,TV Show,George Kay,France,2021,TV-14,3 Seasons,International TV Shows,2021-02-19,9.19,164.68,65.7,1.2,0.53,2021,2,February,Q1
+NFREAL0139,Elite,TV Show,"Carlos Montero, Darío Madrona",Spain,2018,TV-MA,7 Seasons,International TV Shows,2018-03-11,23.16,284.55,61.1,1.3,1.54,2018,3,March,Q1
+NFREAL0140,Dark Desire,TV Show,Leticia López Margalli,Mexico,2020,TV-MA,2 Seasons,International TV Shows,2023-02-01,8.92,69.3,68.5,1.1,0.43,2023,2,February,Q1
+NFREAL0141,The Glory,TV Show,Kim Eun-sook,South Korea,2022,TV-MA,1 Seasons,International TV Shows,2025-04-10,29.42,476.24,70.3,2.0,0.65,2025,4,April,Q2
+NFREAL0142,All of Us Are Dead,TV Show,Chun Sung-il,South Korea,2022,TV-MA,1 Seasons,International TV Shows,2023-09-11,3.64,46.69,75.6,0.3,0.23,2023,9,September,Q3
+NFREAL0143,Kingdom,TV Show,Kim Eun-hee,South Korea,2019,TV-MA,2 Seasons,International TV Shows,2024-08-23,26.11,173.8,62.5,1.1,1.5,2024,8,August,Q3
+NFREAL0144,Crash Landing on You,TV Show,Park Ji-eun,South Korea,2019,TV-14,1 Seasons,International TV Shows,2024-06-12,34.2,238.08,68.4,2.8,1.44,2024,6,June,Q2
+NFREAL0145,Vincenzo,TV Show,Park Jae-bum,South Korea,2021,TV-14,1 Seasons,International TV Shows,2022-04-06,16.4,277.35,46.9,1.1,0.69,2022,4,April,Q2
+NFREAL0146,Itaewon Class,TV Show,Gwangjin,South Korea,2020,TV-14,1 Seasons,International TV Shows,2021-01-02,17.28,169.71,67.6,0.7,0.64,2021,1,January,Q1
+NFREAL0147,Extraordinary Attorney Woo,TV Show,Moon Ji-won,South Korea,2022,TV-14,1 Seasons,International TV Shows,2025-11-02,35.59,627.73,77.9,2.2,2.34,2025,11,November,Q4
+NFREAL0148,Alice in Borderland,TV Show,Shinsuke Sato,Japan,2020,TV-MA,2 Seasons,International TV Shows,2021-01-20,4.67,78.55,78.9,0.6,0.13,2021,1,January,Q1
+NFREAL0149,Arcane,TV Show,"Christian Linke, Alex Yee","United States, France",2021,TV-14,1 Seasons,TV Sci-Fi & Fantasy,2022-07-15,31.21,244.61,68.9,2.6,2.3,2022,7,July,Q3
+NFREAL0150,BoJack Horseman,TV Show,Raphael Bob-Waksberg,United States,2014,TV-MA,6 Seasons,TV Comedies,2023-09-10,30.07,315.4,66.1,2.9,1.76,2023,9,September,Q3
+NFREAL0151,The Good Place,TV Show,Michael Schur,United States,2016,TV-14,4 Seasons,TV Comedies,2020-03-25,6.23,79.67,72.5,0.7,0.36,2020,3,March,Q1
+NFREAL0152,Brooklyn Nine-Nine,TV Show,"Michael Schur, Dan Goor",United States,2013,TV-14,8 Seasons,TV Comedies,2023-11-13,2.61,46.09,77.3,0.1,0.06,2023,11,November,Q4
+NFREAL0153,Community,TV Show,Dan Harmon,United States,2009,TV-14,6 Seasons,TV Comedies,2023-01-22,13.87,102.32,66.2,0.6,0.39,2023,1,January,Q1
+NFREAL0154,Breaking Bad,TV Show,Vince Gilligan,United States,2008,TV-MA,5 Seasons,Crime TV Shows,2021-07-26,78.25,430.36,64.2,3.9,5.22,2021,7,July,Q3
+NFREAL0155,Better Call Saul,TV Show,"Vince Gilligan, Peter Gould",United States,2015,TV-MA,6 Seasons,Crime TV Shows,2018-03-03,24.71,352.64,73.5,2.5,1.0,2018,3,March,Q1
+NFREAL0156,The Walking Dead,TV Show,Frank Darabont,United States,2010,TV-14,11 Seasons,TV Horror,2019-02-21,85.0,1445.76,79.3,8.0,2.78,2019,2,February,Q1
+NFREAL0157,Lost,TV Show,"J. J. Abrams, Damon Lindelof, Jeffrey Lieber",United States,2004,TV-14,6 Seasons,TV Dramas,2020-08-19,4.14,58.21,56.6,0.4,0.2,2020,8,August,Q3
+NFREAL0158,Sherlock,TV Show,"Mark Gatiss, Steven Moffat",United Kingdom,2010,TV-14,4 Seasons,British TV Shows,2022-02-27,11.81,123.43,63.5,0.5,0.77,2022,2,February,Q1
+NFREAL0159,Doctor Who,TV Show,"Sydney Newman, C. E. Webber, Donald Wilson",United Kingdom,1963,TV-PG,13 Seasons,British TV Shows,2022-01-12,18.24,144.22,80.7,1.9,1.1,2022,1,January,Q1
+NFREAL0160,The Office,TV Show,Greg Daniels,United States,2005,TV-14,9 Seasons,TV Comedies,2019-01-20,26.53,371.03,68.1,3.3,1.83,2019,1,January,Q1
+NFREAL0161,Friends,TV Show,"David Crane, Marta Kauffman",United States,1994,TV-14,10 Seasons,TV Comedies,2025-07-26,22.95,283.97,60.0,1.9,1.57,2025,7,July,Q3
+NFREAL0162,How I Met Your Mother,TV Show,"Carter Bays, Craig Thomas",United States,2005,TV-14,9 Seasons,TV Comedies,2024-01-23,5.71,39.57,76.9,0.8,0.16,2024,1,January,Q1
+NFREAL0163,Suits,TV Show,Aaron Korsh,United States,2011,TV-14,9 Seasons,TV Dramas,2018-11-26,77.65,656.78,82.6,4.8,1.86,2018,11,November,Q4
+NFREAL0164,Manifest,TV Show,Jeff Rake,United States,2018,TV-14,4 Seasons,TV Dramas,2018-04-02,2.94,22.63,56.3,0.2,0.14,2018,4,April,Q2
+NFREAL0165,The Lincoln Lawyer,TV Show,"David E. Kelley, Ted Humphrey",United States,2022,TV-MA,2 Seasons,Crime TV Shows,2025-05-25,42.5,597.0,82.8,4.7,2.81,2025,5,May,Q2
+NFREAL0166,Ginny & Georgia,TV Show,Sarah Lampert,United States,2021,TV-14,2 Seasons,TV Dramas,2023-05-14,11.26,79.21,55.1,0.6,0.51,2023,5,May,Q2
+NFREAL0167,Never Have I Ever,TV Show,"Mindy Kaling, Lang Fisher",United States,2020,TV-14,4 Seasons,TV Comedies,2023-05-01,66.81,560.72,77.5,8.6,4.44,2023,5,May,Q2
+NFREAL0168,Outer Banks,TV Show,"Josh Pate, Jonas Pate, Shannon Burke",United States,2020,TV-MA,3 Seasons,TV Action & Adventure,2025-05-04,28.24,455.99,93.1,1.6,1.69,2025,5,May,Q2
+NFREAL0169,Cobra Kai,TV Show,"Josh Heald, Jon Hurwitz, Hayden Schlossberg",United States,2018,TV-14,6 Seasons,TV Action & Adventure,2024-10-19,11.59,198.49,60.7,1.4,0.34,2024,10,October,Q4
+NFREAL0170,Younger,TV Show,Darren Star,United States,2015,TV-14,7 Seasons,TV Comedies,2021-02-03,17.41,110.01,83.7,1.0,0.37,2021,2,February,Q1
+NFREAL0171,The Last Kingdom,TV Show,Stephen Butchard,United Kingdom,2015,TV-14,5 Seasons,British TV Shows,2022-07-08,42.99,462.71,82.8,5.8,1.24,2022,7,July,Q3
+NFREAL0172,Vikings,TV Show,Michael Hirst,"Ireland, Canada",2013,TV-14,6 Seasons,TV Action & Adventure,2022-11-20,6.39,107.28,70.9,0.7,0.36,2022,11,November,Q4
+NFREAL0173,Top Boy,TV Show,Ronan Bennett,United Kingdom,2011,TV-MA,5 Seasons,British TV Shows,2021-09-03,29.44,260.41,60.9,2.0,1.59,2021,9,September,Q3
+NFREAL0174,Black Clover,TV Show,Tatsuya Yoshihara,Japan,2017,TV-14,4 Seasons,Anime Series,2021-11-25,88.97,1586.01,70.1,6.4,2.92,2021,11,November,Q4
+NFREAL0175,Demon Slayer: Kimetsu no Yaiba,TV Show,Haruo Sotozaki,Japan,2019,TV-14,4 Seasons,Anime Series,2019-09-22,8.46,122.94,59.8,0.8,0.61,2019,9,September,Q3
+NFREAL0176,Naruto,TV Show,Hayato Date,Japan,2002,TV-14,9 Seasons,Anime Series,2024-01-24,26.85,164.49,74.5,2.1,2.0,2024,1,January,Q1
+NFREAL0177,One Piece,TV Show,Eiichiro Oda,Japan,1999,TV-14,21 Seasons,Anime Series,2019-10-05,24.14,156.59,57.6,3.6,1.11,2019,10,October,Q4
+NFREAL0178,Attack on Titan,TV Show,"Tetsurō Araki, Masashi Koizuka",Japan,2013,TV-MA,4 Seasons,Anime Series,2023-11-03,43.36,361.69,71.5,3.4,2.35,2023,11,November,Q4
+NFREAL0179,Death Note,TV Show,Tetsurō Araki,Japan,2006,TV-14,1 Seasons,Anime Series,2020-12-14,4.35,71.17,71.4,0.3,0.18,2020,12,December,Q4
+NFREAL0180,Jujutsu Kaisen,TV Show,Sunghoo Park,Japan,2020,TV-14,2 Seasons,Anime Series,2024-08-04,23.92,402.24,65.0,2.3,1.47,2024,8,August,Q3
+NFREAL0181,Your Name,Movie,Makoto Shinkai,Japan,2016,PG,106 min,Anime Features,2018-08-16,11.84,15.57,70.7,1.3,0.93,2018,8,August,Q3
+NFREAL0182,Spirited Away,Movie,Hayao Miyazaki,Japan,2001,PG,125 min,Anime Features,2019-08-25,5.85,12.9,74.5,0.3,0.38,2019,8,August,Q3
+NFREAL0183,Howl's Moving Castle,Movie,Hayao Miyazaki,Japan,2004,PG,119 min,Anime Features,2022-01-22,13.75,29.26,72.0,1.1,0.98,2022,1,January,Q1
+NFREAL0184,My Neighbor Totoro,Movie,Hayao Miyazaki,Japan,1988,G,86 min,Anime Features,2019-12-14,4.29,6.27,59.3,0.4,0.17,2019,12,December,Q4
+NFREAL0185,A Silent Voice,Movie,Naoko Yamada,Japan,2016,TV-14,130 min,Anime Features,2020-09-12,21.32,33.52,63.3,1.3,1.29,2020,9,September,Q3
+NFREAL0186,Weathering With You,Movie,Makoto Shinkai,Japan,2019,PG-13,112 min,Anime Features,2020-04-11,20.93,28.37,76.5,2.3,1.03,2020,4,April,Q2
+NFREAL0187,The Boy and the Heron,Movie,Hayao Miyazaki,Japan,2023,PG-13,124 min,Anime Features,2023-06-15,11.43,16.04,76.3,1.7,0.52,2023,6,June,Q2
